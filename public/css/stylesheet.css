@@ -1,0 +1,119 @@
+.main-container {
+    /* height: 200px; */
+    background-color: rgba(0, 148, 255, 1);
+}
+
+.navbar {
+    /* height: 200px; */
+    background-color: rgba(0, 148, 255, 1);
+}
+
+.feature {
+    background-color: rgba(0, 148, 255, 1);
+}
+
+.main-headline {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 64px;
+    color: white;
+    text-align: center;
+}
+
+.small-headline {
+    font-style: normal;
+    font-weight: 450;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    text-align: center;
+    letter-spacing: 0.005em;
+}
+
+.headline-animation::before {
+    content: 'Tutorial Hosting';
+    -webkit-animation-name: animate;
+    -webkit-animation-duration: 2s;
+    animation-name: animate;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+}
+
+.animate-headline {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 64px;
+    color: white;
+    text-align: center;
+}
+
+#flip {
+    height: 70px;
+    overflow: hidden;
+}
+
+#flip div:first-child {
+    animation: show 5s infinite;
+    animation-fill-mode: forwards;
+}
+
+#flip div:first-child p {
+    background: #99fa21;
+    width: auto;
+}
+
+#flip div:nth-child(2) p {
+    background: #fa212c;
+}
+
+#flip div:nth-child(3) p {
+    background: #fa2199;
+}
+
+#flip div:nth-child(4) p {
+    background: #fa8221;
+}
+
+@keyframes show {
+    0% {margin-top:-300px;}
+    10% {margin-top: -240px;}
+    25% {margin-top:-160px;}
+    50% {margin-top:-85px;}
+    75% {margin-top: 0px;}
+    100% {margin-top:-250px;}
+}
+
+.link {
+    color:black;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: none;
+}
+
+.sidebar-menu {
+    font-size: 14px;
+}
+
+.footer {
+    /* position: fixed; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.banner {
+    height: 232px;
+    background: linear-gradient(249.77deg, #0094FF -1.99%, #007DFF 43.52%, #026CE8 95.86%);
+    box-shadow: 0px 32px 72px rgba(0, 87, 178, 0.16);
+    border-radius: 24px;
+    padding-top: 35px;
+}
+
