@@ -13,6 +13,7 @@ Untuk artikel bisa diklik agar menuju ke halaman Artikel.
 ## Requirement
 
 - Composer Install https://getcomposer.org/
+- Laravel 9.X https://laravel.com/docs/9.x
 
 
 
