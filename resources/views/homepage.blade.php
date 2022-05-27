@@ -36,7 +36,7 @@
             <div class="col"></div>
             <div class="col">
                 <div class="small-headline">
-                    <img class="w-100" src="{{ URL::to('/assets/Body Text.png') }}" alt="Image">
+                    <img class="w-100" src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Body Text.png') }}" alt="Image">
                 </div>
             </div>
             <div class="col"></div>
@@ -45,7 +45,7 @@
             <div class="col"></div>
             <div class="col">
                 <div class="small-headline">
-                    <img class="w-100" src="{{ URL::to('/assets/Search Input.png') }}" alt="Image">
+                    <img class="w-100" src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Search Input.png') }}" alt="Image">
                 </div>
             </div>
             <div class="col"></div>
@@ -58,7 +58,7 @@
                     @include('component.content-01')
                     <div class="row pb-5 pt-5 text-center">
                         <div class="banner">
-                            <img class="" src="{{ URL::to('/assets/Headline & Button.png') }}" alt="Image">
+                            <img class="" src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Headline & Button.png') }}" alt="Image">
                         </div>
                     </div>
                     @include('component.content-02')
