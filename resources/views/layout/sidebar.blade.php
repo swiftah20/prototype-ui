@@ -1,6 +1,6 @@
 <div class="menu sticky-top pl-3 pt-3 pb-3 pr-0" style="top: 90px; z-index: 1019">
     <div class="row pb-5">
-        <img src="{{ URL::to('/assets/Search Input Sidebar.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Search Input Sidebar.png') }}" alt="Image">
     </div>
     <h5 class="pb-4"> Kategori Blog </h5>
     <div class="nav flex-column">
