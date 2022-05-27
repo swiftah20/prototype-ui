@@ -6,7 +6,7 @@
             <div class="col">
             </div>
             <div class="col">
-                <p class="main-headline"> Dapatkan Artikel </p>
+                <p class="main-headline"> Dapatkan Artikel Terbaru Master </p>
             </div>
             <div class="col">
             </div>
