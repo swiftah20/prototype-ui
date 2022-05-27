@@ -5,12 +5,12 @@
     <div class="row pt-5">
         <div class="col-3">
             <div class="col-sm-3 menu sticky-top pr-0 mt-5 sidebar-menu">
-                <img class="" src="{{ URL::to('/assets/Sidebar Article.png') }}" alt="Image">
+                <img class="" src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Sidebar Article.png') }}" alt="Image">
             </div>
         </div>
         <div class="col-7">
-            <img class="" src="{{ URL::to('/assets/Frame 2583.png') }}" alt="Image">
-            <img class="" src="{{ URL::to('/assets/Frame 2584.png') }}" alt="Image">
+            <img class="" src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Frame 2583.png') }}" alt="Image">
+            <img class="" src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Frame 2584.png') }}" alt="Image">
         </div>
         <div class="col-2">
         </div>

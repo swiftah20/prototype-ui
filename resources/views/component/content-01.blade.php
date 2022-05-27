@@ -1,10 +1,10 @@
 <div class="row pb-5">
-    <img class="w-75" src="{{ URL::to('/assets/Artikel Terbaru.png') }}" alt="Image">
+    <img class="w-75" src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Artikel Terbaru.png') }}" alt="Image">
 </div>
 <div class="row pb-5">
     <div class="col-8 pr-5">
         <div class="pb-3">
-            <img src="{{ URL::to('/assets/Name Tag.png') }}" alt="Image">
+            <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Name Tag.png') }}" alt="Image">
             <a href="article" class="link">
             <div class="pt-4">
                 <h5 class="link"> 4+ Cara Mudah Cek IP Hosting Website</h5>
@@ -13,19 +13,19 @@
                 </p>
             </div>
             <div>
-                <img src="{{ URL::to('/assets/Tag.png') }}" alt="Image">
+                <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Tag.png') }}" alt="Image">
             </div>
             </a>
         </div>
     </div>
     <div class="col-3">
-        <img src="{{ URL::to('/assets/Rectangle 1829.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Rectangle 1829.png') }}" alt="Image">
     </div>
 </div>
 <div class="row pb-5">
     <div class="col-8 pr-5">
         <div class="pb-3">
-            <img src="{{ URL::to('/assets/Name Tag.png') }}" alt="Image">
+            <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Name Tag.png') }}" alt="Image">
             <a href="article" class="link">
             <div class="pt-4">
                 <h5 class="link"> 4+ Cara Mudah Cek IP Hosting Website</h5>
@@ -34,19 +34,19 @@
                 </p>
             </div>
             <div>
-                <img src="{{ URL::to('/assets/Tag.png') }}" alt="Image">
+                <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Tag.png') }}" alt="Image">
             </div>
             </a>
         </div>
     </div>
     <div class="col-3">
-        <img src="{{ URL::to('/assets/Rectangle 1829.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Rectangle 1829.png') }}" alt="Image">
     </div>
 </div>
 <div class="row pb-5">
     <div class="col-8 pr-5">
         <div class="pb-3">
-            <img src="{{ URL::to('/assets/Name Tag.png') }}" alt="Image">
+            <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Name Tag.png') }}" alt="Image">
             <a href="article" class="link">
             <div class="pt-4">
                 <h5 class="link"> 4+ Cara Mudah Cek IP Hosting Website</h5>
@@ -55,13 +55,13 @@
                 </p>
             </div>
             <div>
-                <img src="{{ URL::to('/assets/Tag.png') }}" alt="Image">
+                <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Tag.png') }}" alt="Image">
             </div>
             </a>
         </div>
     </div>
     <div class="col-3">
-        <img src="{{ URL::to('/assets/Rectangle 1829.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Rectangle 1829.png') }}" alt="Image">
     </div>
 </div>
 <div class="row text-center text-primary pt-5 pb-5">

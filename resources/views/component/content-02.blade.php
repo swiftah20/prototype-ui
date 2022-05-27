@@ -3,34 +3,34 @@
 </div>
 <div class="row pb-5">
     <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
     </div>
     <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
     </div>
     <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
-    </div>
-</div>
-<div class="row pb-5">
-    <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
-    </div>
-    <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
-    </div>
-    <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
     </div>
 </div>
 <div class="row pb-5">
     <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
     </div>
     <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
     </div>
     <div class="col-4">
-        <img src="{{ URL::to('/assets/Content.png') }}" alt="Image">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
+    </div>
+</div>
+<div class="row pb-5">
+    <div class="col-4">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
+    </div>
+    <div class="col-4">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
+    </div>
+    <div class="col-4">
+        <img src="{{ URL::to('https://test-git-ui.herokuapp.com/assets/Content.png') }}" alt="Image">
     </div>
 </div>
