@@ -58,7 +58,7 @@
                     @include('component.content-01')
                     <div class="row pb-5 pt-5 text-center">
                         <div class="banner">
-                            <img class="" src="{{ URL::to('https://aqueous-falls-28089.herokuapp.com/assets/Headline & Button.png') }}" alt="Image">
+                            <img class="" src="{{ URL::to('/assets/Headline & Button.png') }}" alt="Image">
                         </div>
                     </div>
                     @include('component.content-02')
