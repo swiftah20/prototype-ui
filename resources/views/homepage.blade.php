@@ -45,7 +45,7 @@
             <div class="col"></div>
             <div class="col">
                 <div class="small-headline">
-                    <img class="w-100" src="{{ URL::to('/assets/Search Input.png') }}" alt="Image">
+                    <img class="w-100" src="{{ URL::to('https://aqueous-falls-28089.herokuapp.com/assets/Search Input.png') }}" alt="Image">
                 </div>
             </div>
             <div class="col"></div>
